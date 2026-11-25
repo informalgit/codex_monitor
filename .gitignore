@@ -1,0 +1,13 @@
+__pycache__/
+log.txt
+position.json
+last_snapshot.json
+config.local.json
+
+# CC Meter 补丁相关：大二进制不入库（原始 asar 可从安装目录/安装包获取），
+# PATCH_README.md 与 patched-server.mjs.reference 保留在库里。
+_ccm_patch/app.asar.bak
+_ccm_patch/_tail_dump.txt
+
+# 置顶问题排查用的诊断脚本与截图（可复用，暂不入库）
+_diag/

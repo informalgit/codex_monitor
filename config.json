@@ -1,0 +1,7 @@
+{
+  "proxy": "",
+  "scale": 1.0,
+  "opacity": 0.95,
+  "refresh_seconds": 60,
+  "live_ttl_seconds": 300
+}
